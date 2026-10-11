@@ -74,5 +74,8 @@ Python, TensorFlow/Keras, Gradio, NumPy, Matplotlib, Pillow
 - IoT camera integration for daily automated monitoring
 - Treatment recommendations per disease
 
+## Author 👨‍💻
+[Bipra_Biswas](https://github.com/Bipra09)
+
 ## License
 Licensed under the MIT License. See [LICENSE](LICENSE).
